@@ -16,10 +16,6 @@ public class HelloController {
     }
     @RequestMapping("/xixi")
     public String xixi(){
-        return "1111";
-    }
-    @RequestMapping
-    public String haha(){
-        return "s";
+        return "2222";
     }
 }
