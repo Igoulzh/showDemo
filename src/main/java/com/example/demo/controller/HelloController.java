@@ -18,5 +18,8 @@ public class HelloController {
     public String xixi(){
         return "ssss";
     }
-
+    @RequestMapping
+    public String haha(){
+        return "s";
+    }
 }
