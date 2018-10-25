@@ -20,6 +20,6 @@ public class HelloController {
     }
     @RequestMapping
     public String haha(){
-        return "s";
+        return "superman";
     }
 }
